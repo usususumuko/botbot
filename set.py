@@ -8,6 +8,7 @@ import os
     os.system("wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb")
     os.system("apt-get install ./google-chrome-stable_current_amd64.deb")
     os.system("wget https://raw.githubusercontent.com/usususumuko/botbot/refs/heads/main/bot.py")
-
+    os.system("wget https://raw.githubusercontent.com/usususumuko/botbot/refs/heads/main/ua.txt")
+    os.system("https://raw.githubusercontent.com/usususumuko/botbot/refs/heads/main/proxy.txt")
 
 print("Done.")
